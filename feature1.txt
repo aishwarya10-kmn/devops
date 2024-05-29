@@ -1,6 +1,2 @@
 VVCE Mysore
 
-printf("hello");
-printf("good morning");
-printf("have a good day");
-
